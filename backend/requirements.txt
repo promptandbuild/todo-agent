@@ -1,0 +1,13 @@
+langchain-groq
+langgraph
+pydantic
+httpx
+python-dateutil
+fastapi
+uvicorn
+websockets
+dotenv
+colorama
+pyfiglet
+PyJWT
+python-multipart
